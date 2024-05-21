@@ -1,4 +1,2 @@
 # attendance
-
--   Anwar.A (5/21) :)
--   Keem
+- Anwar.A (5/21) :)
